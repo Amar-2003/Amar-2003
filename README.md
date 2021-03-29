@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭  I'm currently working on <a href="https://github.com/TheInsightDevelopers/InsightAndroid">Insight App</a>
-🌱 I'm currently learning more about Android and Web development
-📫 Reach me at my <a href="amarnathk5674@gmail.com">email</a>
+- 🔭  I'm currently working on <a href="https://github.com/TheInsightDevelopers/InsightAndroid">Insight App</a>
+- 🌱 I'm currently learning more about Android and Web development
+- 📫 Reach me at my <a href="amarnathk5674@gmail.com">email</a>

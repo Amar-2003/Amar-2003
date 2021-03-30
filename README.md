@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭  I'm currently working on <a href="https://github.com/TheInsightDevelopers/InsightAndroid">Insight App</a> and contributing to <a href="https://github.com/oppia/oppia-android">Oppia-android</a>
-- 🌱 I'm currently learning more about Android and Web development
+- 🌱 I'm currently learning more about Android,Web development and Competitive Programming
 - 📫 Reach me at amarnathk5674@gmail.com

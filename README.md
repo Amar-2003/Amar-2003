@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amar-2003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-2003)](https://github.com/anuraghazra/github-readme-stats)  
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheInsightDevelopers&repo=InsightAndroid)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheInsightDevelopers&repo=InsightAndroid)

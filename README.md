@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning more about Android,Web development and Competitive Programming
 - 📫 Reach me at amarnathk5674@gmail.com
 
-
+![](https://komarev.com/ghpvc/?username=Amar-2003)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amar-2003&show_icons=true&theme=radical)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amar-2003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

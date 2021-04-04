@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="github.com/TheInsightDevelopers/InsightAndroid>Insight Android</a>
+<a href="github.com/TheInsightDevelopers/InsightAndroid">Insight Android</a>

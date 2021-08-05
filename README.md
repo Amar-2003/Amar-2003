@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-2003&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheInsightDevelopers&repo=InsightAndroid&theme=onedark)
 
 
 
-<a href="https://github.com/TheInsightDevelopers/InsightAndroid">Insight Android</a>
+
+
